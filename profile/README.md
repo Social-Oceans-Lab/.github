@@ -10,7 +10,7 @@ Seafood Systems:  What happens to seafood when it enters the market (aka unpacki
 
 Ocean and Coastal Governance: How does governance shape coastal communities’ access to and engagement with marine resources? What forms of policy facilitate collaboration and empower local peoples?
 
-Our research is often informed by real-world engagement with marine resource users, coastal community stakeholders, and policymakers. You can find out more about our lab [here](www.joshua-stoll).
+Our research is often informed by real-world engagement with marine resource users, coastal community stakeholders, and policymakers. You can find out more about our lab [here](http://www.joshua-stoll).
 
 Social Oceans Lab is where we use open science methods to collaborate, maintain code, and published our work. If you are interested in learning more about what we do or collaborating with us - do not hesitate to reach out.
 
