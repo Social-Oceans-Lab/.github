@@ -6,7 +6,7 @@ Our group is engaged in interdisciplinary and applied research related to sustai
 
 Coastal Community Adaptation and Resilience: Why and how are communities adapting to systemic changes? What strategies enable (disable) the equitable distribution of resources? What are the cumulative impacts of socioeconomic and environmental change on communities’ adaptive capacity?
 
-Seafood Systems:  What happens to seafood when it enters the market (aka unpacking the black box)? What role does seafood trade and distribution play in fostering coastal community health and well-being? How can seafood distribution foster resilience and strengthen local and regional food systems? Learn more about our applied work [here](www.localcatch.org). 
+Seafood Systems:  What happens to seafood when it enters the market (aka unpacking the black box)? What role does seafood trade and distribution play in fostering coastal community health and well-being? How can seafood distribution foster resilience and strengthen local and regional food systems? Learn more about our applied work [here](http://www.localcatch.org). 
 
 Ocean and Coastal Governance: How does governance shape coastal communities’ access to and engagement with marine resources? What forms of policy facilitate collaboration and empower local peoples?
 
